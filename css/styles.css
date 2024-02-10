@@ -1,0 +1,38 @@
+h1, h2, h3 {
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+#care aside p {
+    font-style: italic;
+}
+
+nav ul li a:hover {
+    color: blue;
+}
+
+section p::first-letter {
+    font-size: 150%;
+    color: red;
+}
+
+#about {
+    text-align: center;
+}
+
+.breed {
+    font-weight: bold;
+}
+
+body {
+    font-family: Georgia, serif;
+	color: white;
+}
+
+nav {
+    background-color: lightgray;
+}
+
+nav ul {
+    text-align: center;
+}
